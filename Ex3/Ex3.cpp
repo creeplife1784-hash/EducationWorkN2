@@ -10,7 +10,7 @@ int main()
     SetConsoleOutputCP(1251);
 
     cout << "Hello World!" << endl;
-    cout << " " << endl;
+    cout << endl;
 
     int number;
 

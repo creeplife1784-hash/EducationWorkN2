@@ -12,6 +12,7 @@ int main()
     int number;
 
     cout << "Hello World!" << endl;
+    cout << endl;
 
     while (true) {
         cout << "Введите число: ";
